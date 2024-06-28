@@ -48,4 +48,4 @@ The Power BI dashboard provides an interactive platform for exploring these insi
 
 ---
 
-Thank you for exploring I sales forecasting project. I hope the insights and visualizations help you make informed business decisions.
+Thank you for exploring my sales forecasting project. I hope the insights and visualizations help you make informed business decisions.
