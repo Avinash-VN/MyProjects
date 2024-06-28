@@ -37,4 +37,4 @@ The project includes detailed analysis and comparison of the performance of each
 
 ---
 
-Thank you for exploring our project on Toyota Corolla price trend analysis and prediction. We hope you find the insights and predictions useful.
+Thank you for exploring my project on Toyota Corolla price trend analysis and prediction. I hope you find the insights and predictions useful.
