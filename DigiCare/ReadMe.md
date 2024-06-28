@@ -1,4 +1,4 @@
-# DigiCare: NFC-Enabled Health Record Management System
+# DigiCare: NFC-Enabled Health Record Management System (Prototype using Marvel App)
 
 ## Project Overview
 
