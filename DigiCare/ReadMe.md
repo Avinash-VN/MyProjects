@@ -30,7 +30,3 @@ DigiCare is an innovative mobile application designed to revolutionize the way w
 ## Prototype
 
 For a detailed visualization of DigiCare's interface and functionalities, please refer to the accompanying deck which contains a prototype of the product. This prototype showcases the user-friendly design and intuitive features of the application.
-
----
-
-DigiCare aims to be the one-stop solution for all your medical needs, ensuring that all your medical information is secure, accessible, and manageable with just a single tap. Join us in transforming the healthcare experience with DigiCare.
