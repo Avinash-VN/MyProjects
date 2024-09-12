@@ -29,4 +29,4 @@ DigiCare is an innovative mobile application designed to revolutionize the way w
 
 ## Prototype
 
-For a detailed visualization of DigiCare's interface and functionalities, please refer to the accompanying deck which contains a prototype of the product. This prototype showcases the user-friendly design and intuitive features of the application.
+For a detailed visualization of DigiCare's interface and functionalities [click here](https://marvelapp.com/prototype/e5g82i8/screen/89411648)
